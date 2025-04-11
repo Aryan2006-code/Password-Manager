@@ -20,7 +20,6 @@ Screenshot 2025-04-04 204032.png
 ## 💡 How to Use
 1. Clone the repository.
 2. Run the Python script:
-   ```bash
-   python main.py
+   passman.py
 ## 📄 License
 This project is open source and available under the [MIT License](LICENSE).
